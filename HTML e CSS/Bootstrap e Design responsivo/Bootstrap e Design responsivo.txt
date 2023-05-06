@@ -1,0 +1,1 @@
+O design responsivo é muito importante ele responde a diferentes tamanhos de telas, permitindo que o layout seja modificado deixando-o perfeitamente encaixado na tela tanto de computadores, tablets e dispositivos mobile.
